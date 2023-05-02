@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula C-Sharp", "Aula C-Sharp\Aula C-Sharp.csproj", "{89A8C27D-1B76-4AFC-8DA9-CA434FBB8A28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variaveis", "Variaveis\Variaveis.csproj", "{48101DD6-AA6F-4F64-AE16-FA2A76327BCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{89A8C27D-1B76-4AFC-8DA9-CA434FBB8A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89A8C27D-1B76-4AFC-8DA9-CA434FBB8A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89A8C27D-1B76-4AFC-8DA9-CA434FBB8A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48101DD6-AA6F-4F64-AE16-FA2A76327BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48101DD6-AA6F-4F64-AE16-FA2A76327BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48101DD6-AA6F-4F64-AE16-FA2A76327BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48101DD6-AA6F-4F64-AE16-FA2A76327BCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
